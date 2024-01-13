@@ -1,0 +1,283 @@
+/* Computador / Tablet */
+@media screen and (min-width:500px) and (max-width: 1000px) {
+    .menu-top{
+        margin-top: 6%;
+    }
+    .txt-banner h1{
+        font-size: 48px;
+    }
+    .txt-banner p{
+        font-size: 22px;
+    }
+    .formulario{
+        display: none;
+    }
+    .icones p{
+        font-size: 15px;
+    }
+    .txt-sobre{
+        width: 100%;
+    }
+    .txt-sobre p{
+        font-size: 14px;
+    }
+    .sobre img{
+        display: none;
+    }
+    .txt-p p{    
+        font-size: 14px;
+    }
+    .img-p{
+        top: 270%;
+    }
+    .meu-contato{
+        top: 340%;
+    }
+}
+@media screen and (min-width:600px) and (max-width: 700px) {
+    .menu-top{
+        margin-top: 5%;
+    }
+}
+@media screen and (min-width:700px) and (max-width: 1000px) {
+    .menu-top{
+        margin-top: 4%;
+    }
+    .txt-sobre p{
+        font-size: 14px;
+    }
+}
+@media screen and (min-width:1000px) and (max-width: 1300px){
+    .menu-top{
+        margin-top: 4%;
+    }
+    .txt-banner h1{
+        font-size: 47px;
+    }
+    .txt-banner p{
+        font-size: 22px;
+    }
+    .icones p{
+        font-size: 15px;
+    }
+    .txt-sobre{
+        width: 50%;
+    }
+    .txt-sobre p{
+        font-size: 14px;
+    }
+    .sobre img{
+        display: block;
+    }
+    .txt-p p{    
+        font-size: 14px;
+    }
+    .img-p{
+        top: 270%;
+    }
+    .meu-contato{
+        top: 340%;
+    }
+}
+/* Celular */
+@media screen and (min-width:100px) and (max-width: 200px) {
+    .top-fundo{
+        width: 326%;
+        height: 4rem;
+    }
+    .top-logo img{
+        height: 40px;
+        margin-top: 3%;
+    }
+    .menu-top-2{
+        left: 280%;
+        margin-top: 10%;
+    }
+    .menu-top{
+        display: none;
+    }
+    .celular{
+        display: block;
+    }
+    .img-banner{
+        width: 326%;
+        height: 90vh;
+        background-size: 100% 90vh;
+    }
+    .txt-banner h1{
+        font-size: 40px;
+    }
+    .txt-banner p{
+        font-size: 15px;
+    }
+    .formulario{
+        display: none;
+    }
+    .icones{
+        margin-left: 20%;
+    }
+    .icones i {
+        font-size: 30px;
+    }
+    .icones p{
+        font-size: 14px;
+    }
+    .sobre{
+        width: 326%;
+    }
+    .sobre img{
+        display: none;
+    }
+    .txt-sobre{
+        width: 100%;
+    }
+    .txt-sobre p{
+        font-size: 12px;
+    }
+    .img-p{
+        display: none;
+    }
+    .produtos{
+        width: 200%;
+        height: 14rem;
+    }
+    .contato{
+        width: 326%;
+    }
+    .meu-contato{
+        width: 326%;
+        top: 332%;
+    }
+}
+@media screen and (min-width:200px) and (max-width: 300px) {
+    .top-fundo{
+        width: 326%;
+        height: 4rem;
+    }
+    .top-logo img{
+        height: 40px;
+        margin-top: 3%;
+    }
+    .menu-top-2{
+        left: 280%;
+        margin-top: 10%;
+    }
+    .menu-top{
+        display: none;
+    }
+    .celular{
+        display: block;
+    }
+    .img-banner{
+        width: 326%;
+        height: 90vh;
+        background-size: 100% 90vh;
+    }
+    .txt-banner h1{
+        font-size: 40px;
+    }
+    .txt-banner p{
+        font-size: 15px;
+    }
+    .formulario{
+        display: none;
+    }
+    .icones{
+        margin-left: 80%;
+    }
+    .icones i {
+        font-size: 30px;
+    }
+    .icones p{
+        font-size: 14px;
+    }
+    .sobre{
+        width: 326%;
+    }
+    .sobre img{
+        display: none;
+    }
+    .txt-sobre{
+        width: 100%;
+    }
+    .txt-sobre p{
+        font-size: 12px;
+    }
+    .img-p{
+        display: none;
+    }
+    .produtos{
+        width: 200%;
+        height: 14rem;
+    }
+    .contato{
+        width: 326%;
+    }
+    .meu-contato{
+        width: 326%;
+        top: 330%;
+    }
+}
+@media screen and (min-width:300px) and (max-width: 500px) {
+    .top-fundo{
+        width: 126%;
+        height: 4rem;
+    }
+    .top-logo img{
+        height: 40px;
+        margin-top: 3%;
+    }
+    .menu-top{
+        display: none;
+    }
+    .celular{
+        display: block;
+    }
+    .img-banner{
+        width: 126%;
+        height: 90vh;
+        background-size: 100% 90vh;
+    }
+    .txt-banner h1{
+        font-size: 40px;
+    }
+    .txt-banner p{
+        font-size: 20px;
+    }
+    .formulario{
+        display: none;
+    }
+    .icones i {
+        font-size: 30px;
+    }
+    .icones p{
+        font-size: 14px;
+    }
+    .sobre{
+        width: 126%;
+    }
+    .sobre img{
+        display: none;
+    }
+    .txt-sobre{
+        width: 100%;
+    }
+    .txt-sobre p{
+        font-size: 12px;
+    }
+    .img-p{
+        display: none;
+    }
+    .contato{
+        width: 126%;
+    }
+    .meu-contato{
+        width: 126%;
+        top: 328%;
+    }
+}
+@media screen and (min-width:400px) and (max-width: 500px) {
+    .icones{
+        margin-left: 20%;
+    }
+}
