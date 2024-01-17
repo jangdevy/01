@@ -309,6 +309,9 @@ body{
 .container_SR{
     display: flex;
 }
+.txt-p{
+    width: 80%;
+}
 .txt-p h2{
     margin-bottom: 10px;
 
@@ -339,7 +342,7 @@ body{
     margin-left:70%;
 }
 .img-p img{
-    width: 20%;
+    width: 30%;
     height: auto;
 }
 /*--------------------------------------------------------------------------------------*/
