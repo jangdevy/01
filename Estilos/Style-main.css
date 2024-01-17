@@ -302,10 +302,12 @@ body{
 
 /* Produtos */
 .produtos{
-    display: flex;
     padding: 40px;
     width: 100%;
     height: auto;
+}
+.container_SR{
+    display: flex;
 }
 .txt-p h2{
     margin-bottom: 10px;
