@@ -310,7 +310,7 @@ body{
     display: flex;
 }
 .txt-p{
-    width: 70%;
+    width: 100%;
 }
 .txt-p h2{
     margin-bottom: 10px;
@@ -339,10 +339,10 @@ body{
     background-color: rgb(56, 238, 50);
 }
 .img-p{
-    margin-left:70%;
+    padding-left:20%;
 }
 .img-p img{
-    width: 30%;
+    width: 10%;
     height: auto;
 }
 /*--------------------------------------------------------------------------------------*/
