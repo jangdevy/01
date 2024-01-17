@@ -333,9 +333,7 @@ body{
     background-color: rgb(56, 238, 50);
 }
 .img-p{
-    position: absolute;
-    top: 255%;
-    left: 70%;
+    margin-left:70%;
 }
 .img-p img{
     width: 20%;
