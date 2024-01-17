@@ -30,9 +30,6 @@
     .img-p{
         top: 270%;
     }
-    .meu-contato{
-        top: 340%;
-    }
 }
 @media screen and (min-width:600px) and (max-width: 700px) {
     .menu-top{
@@ -74,9 +71,6 @@
     }
     .img-p{
         top: 270%;
-    }
-    .meu-contato{
-        top: 340%;
     }
 }
 /* Celular */
@@ -144,10 +138,6 @@
     .contato{
         width: 326%;
     }
-    .meu-contato{
-        width: 326%;
-        top: 332%;
-    }
 }
 @media screen and (min-width:200px) and (max-width: 300px) {
     .top-fundo{
@@ -213,10 +203,6 @@
     .contato{
         width: 326%;
     }
-    .meu-contato{
-        width: 326%;
-        top: 330%;
-    }
 }
 @media screen and (min-width:300px) and (max-width: 500px) {
     .top-fundo{
@@ -271,13 +257,28 @@
     .contato{
         width: 126%;
     }
-    .meu-contato{
-        width: 126%;
-        top: 328%;
-    }
 }
 @media screen and (min-width:400px) and (max-width: 500px) {
     .icones{
         margin-left: 20%;
+    }
+}
+/* Page3 */
+@media screen and (min-width:500px) and (max-width:1000px) {
+    .caixa{ 
+        width: 70%;
+    }
+}
+@media screen and (min-width:400px) and (max-width:500px) {
+    .caixa{ 
+        width: auto;
+    }
+}
+@media screen and (min-width:300px) and (max-width:400px) {
+    .caixa{ 
+        width: auto;
+    }
+    .txt-caixa h1{
+        font-size: 18px;
     }
 }

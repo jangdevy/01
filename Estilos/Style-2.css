@@ -15,8 +15,8 @@
     border-radius: 2%;
 }
 .caixa img{
-    width: 35%;
-    height: 200px;
+    width: 40%;
+    height: auto;
 
     border-radius: 3% 0 0 3%;
 }
@@ -40,29 +40,6 @@
     color: white;
     border-color: rgb(56, 238, 50);
     background-color: rgb(56, 238, 50);
-}
-/*--------------------------------------------------------------------------------------*/
-
-/* Meu contato */
-.meu-contato2{
-    position: absolute;
-    top: 215%;
-    width: 100%;
-    height: auto;
-
-    color: white;
-    text-align: center;
-}
-.meu-contato2 hr{
-    margin-bottom: 1%;
-    margin-top: 4%;
-}
-.meu-contato2 a{
-    color: white;
-    text-decoration: underline;
-}
-.meu-contato2 a:hover{
-    color: aqua;
 }
 /*--------------------------------------------------------------------------------------*/
 
