@@ -263,7 +263,7 @@
         margin-left: 20%;
     }
 }
-/* Page3 */
+/* Page_2 */
 @media screen and (min-width:500px) and (max-width:1000px) {
     .caixa{ 
         width: 70%;
@@ -280,5 +280,14 @@
     }
     .txt-caixa h1{
         font-size: 18px;
+    }
+}
+/* Page_3 */
+@media screen and (min-width:300px) and (max-width:400) {
+    .item1 img{
+        margin-left: 1%;
+        margin-bottom: 1%;
+        width: 50px;
+        height: 50px;
     }
 }

@@ -3,6 +3,7 @@
     width: 100%;
     height: auto;
     margin-bottom: 4%;
+    animation: fadeIn 5s;
 }
 .caixa{
     margin-top: 4%;
@@ -41,6 +42,10 @@
     border-color: rgb(56, 238, 50);
     background-color: rgb(56, 238, 50);
 }
+@keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+}
 /*--------------------------------------------------------------------------------------*/
 
 /* Página 3 */
@@ -48,6 +53,7 @@
 .produtos-items{
     width: 100%;
     height: auto;
+    animation: fadeIn 5s;
 }
 .produtos-items .item1{
     display: none;
